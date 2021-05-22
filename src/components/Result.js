@@ -17,7 +17,7 @@ class Result extends Component {
                             <h6 className="card-title">Color: {this.props.color} - Fontsize: {this.props.fontSize} </h6>
                         </div>
                         <div className="card-body">
-                            <div className="card-text content" style={this.SetContentStyle()}>Nội dung setting</div>
+                            <div className="card-text content" style={this.SetContentStyle()}>Nội dung Setting</div>
                         </div>
                     </div>
                 </div>
